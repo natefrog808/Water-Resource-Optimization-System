@@ -190,12 +190,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch
 5. Create a new Pull Request
 
-## 📚 Documentation
-
-For detailed documentation, see:
-- [API Documentation](docs/API.md)
-- [Configuration Guide](docs/Configuration.md)
-- [Deployment Guide](docs/Deployment.md)
 
 ## 🏆 Acknowledgments
 
