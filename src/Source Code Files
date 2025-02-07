@@ -1,0 +1,17 @@
+src/
+├── core/
+│   ├── __init__.py
+│   ├── sensor_handler.py         # Main sensor test runner code
+│   ├── data_processor.py         # Data processing logic
+│   └── mqtt_client.py           # MQTT connection handling
+├── testing/
+│   ├── __init__.py
+│   ├── load_generator.py        # Load testing code
+│   └── test_patterns.py         # Test pattern configurations
+├── monitoring/
+│   ├── __init__.py
+│   ├── performance_monitor.py   # Performance monitoring code
+│   └── metrics_collector.py     # Metrics collection logic
+└── visualization/
+    ├── __init__.py
+    └── dashboard.jsx            # React dashboard component
