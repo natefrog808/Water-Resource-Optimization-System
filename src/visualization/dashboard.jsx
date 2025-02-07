@@ -1,3 +1,10 @@
+"""
+Water Resource Optimization System
+File: sensor_handler.py
+Purpose: Handles sensor data processing and validation
+Author: [natefrog]
+Created: 2025-02-07
+"""
 import React, { useState, useEffect } from 'react';
 import { LineChart, Line, AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
