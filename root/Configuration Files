@@ -1,0 +1,4 @@
+├── requirements.txt             # Python dependencies
+├── .gitignore                  # Git ignore rules
+├── README.md                   # Project documentation
+└── setup.py                    # Package setup file
