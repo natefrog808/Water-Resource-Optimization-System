@@ -1,0 +1,2 @@
+├── .env.example               # Example environment variables
+└── config.yaml               # Configuration settings
