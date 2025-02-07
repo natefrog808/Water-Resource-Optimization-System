@@ -1,0 +1,4 @@
+docs/
+├── api.md                      # API documentation
+├── setup_guide.md             # Installation instructions
+└── configuration.md           # Configuration guide
